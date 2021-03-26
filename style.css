@@ -1,20 +1,131 @@
 .home {
-    background-image: url("https://www.edunexttechnologies.com/images/edunext-school-erp.png");
+    background-image: url("https://www.forwardchallenges.com/media/forward-challenges-open-innovation.jpg");
     height: 700px;
-    width:auto;
-    font-size: large;
+    width:100%;
+    font-size: bold;
+    
+
+
    
 }
-.home_h1
-{font-size: large;
+.home p{
+  font-size: 20px;
      font-family:Times New Roman', Times, serif ';
-    font-size: 100px;
       color:white;
-
-      
 }
+
+.home h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.home_text {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
 .ho{
 font-family: cursive;
 text-align: center;
 
+
+
+
+}
+.hi{
+height: 20px;
+width: 30px;
+}.mx
+{
+padding-left: 200px;
+padding-right: 200px;
+}.mb3
+{
+padding-left: 200px;
+padding-right: 200px;
+}
+.mx button
+{
+padding-left: 200px;
+padding-right: 200px;
+}
+
+}
+.col1 {
+  padding-left: 30px;
+}
+.man
+{
+text-align: center;
+
+}
+.wow
+{
+
+color: azure;
+}
+.mn{
+background-image: url("https://i.pinimg.com/originals/ad/d5/cf/add5cf700972feb36334ca691fadb06f.jpg");
+height: 700px;
+width:100%;
+color: azure;
+}
+.mb_3
+{
+padding-right: 50px ;
+
+}
+.hello
+{color: white;
+  background-image: url("https://wallpapersplanet.net/sites/default/files/black-and-red-abstract-wallpapers-33969-6277848.png");
+  height: 700px;
+  width:100%;
+  padding-bottom: 90px;
+  background-color: aqua;
+}
+.sam
+{
+  
+    padding-left: 400px;
+    padding-right: 300px;
+
+}
+.ab{
+  padding-left: 600px;
+text-decoration: underline;
+}
+.qwe
+{
+  font size: 80px;
+ padding-left: 60px; 
+}
+
+.jk
+{
+color: white;
+font-size: medium;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color:black;
+}
+.kl
+{
+background-color:black
+
+}
+.babu
+{
+background-image: url("https://i.pinimg.com/originals/91/8c/89/918c8957312df92ee4890907905f0b41.jpg");
+height: 700px;
+width:100%;
+
+
+}
+.name1 {
+  padding: 100px; ;
+}
+
+.button1 {
+  text-align: center;
+  padding-top: 50px;
 }
